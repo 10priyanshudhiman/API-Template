@@ -1,0 +1,15 @@
+{
+    "dbCredentials": {
+        "mongo": {
+          "host": [
+            "cluster0.b9sve.mongodb.net"
+          ],
+          "mongo_db": "restapi",
+          "username": "priyanshud",
+          "password": "priyanshu123"
+        }
+      },
+      "PORT":3000,
+      "jwtAppSecret": "E35255E5E96C371EC513644C53432E55A264D51D4BB4CDAD46E8483B10C10798",
+      "jwtTokenExpiryDuration": "12h"
+}
